@@ -1,0 +1,101 @@
+.text-title{
+    font-family: 'Warnes';
+    color: white;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #008cff , 0 0 70px #001aff , 0 0 80px #4000ff , 0 0 100px #0066ff ;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    z-index: 3;
+    font-size: 3rem;
+}
+
+.text-title-red{
+    font-family: 'Warnes';
+    color: white;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #c61414 , 0 0 70px #cc1a1a , 0 0 80px #a90505 , 0 0 100px #df2525 ;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    z-index: 3;
+    font-size: 3rem;
+}
+
+.imagenPortada{
+    width: 40%;
+}
+
+.textoBoton{
+    font-family: 'Warnes';
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+}
+
+.textoBoton:hover{
+    transition: 1s;
+    color: whitesmoke;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #008cff , 0 0 70px #001aff , 0 0 80px #4000ff , 0 0 100px #0066ff ;
+}
+
+.textoInstrucciones{
+    font-family: "Poiret One";
+    color: white;
+    font-size: 1.25rem;
+    list-style-type: none;
+}
+
+.textoPalo{
+    font-family: "Poiret One";
+    color: white;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #008cff , 0 0 70px #001aff , 0 0 80px #4000ff , 0 0 100px #0066ff ;
+}
+
+.textoJuego{
+    font-family: "Poiret One";
+    color: white;
+    font-size: 1.5rem;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #008cff , 0 0 70px #001aff , 0 0 80px #4000ff , 0 0 100px #0066ff ;
+}
+
+.textoCarta{
+    font-family: "Poiret One";
+    color: white;
+    font-size: 3rem;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #008cff , 0 0 70px #001aff , 0 0 80px #4000ff , 0 0 100px #0066ff ;
+}
+
+.textoJuego-sinNeon{
+    font-family: "Poiret One";
+    color: white;
+    font-size: 1.5rem;
+}
+
+.imagenTurno{
+    width: 30%;
+    opacity: 0.75;
+}
+
+.textoForm{
+    font-family: "Poiret One";
+    color: black;
+    font-size: 1.25rem;
+}
+
+.botonForm{
+    font-size: 1.75rem;
+    color: white;
+}
+
+.botonForm:hover{
+    transition: 1s;
+    color: whitesmoke;
+    text-shadow: 0 0 10px rgba(255,255,255,1) , 0 0 20px rgba(255,255,255,1) , 0 0 30px rgba(255,255,255,1) , 0 0 40px #008cff , 0 0 70px #001aff , 0 0 80px #4000ff , 0 0 100px #0066ff ;
+}
+
+.anchoImagen{
+    width: 15%;
+}
